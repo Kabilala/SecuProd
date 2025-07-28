@@ -89,6 +89,24 @@ SecureProd s’appuie sur une architecture IA/ML avancée pour :
 - [ ] Expand honeynet capabilities for broader threat intel  
 - [ ] Integrate with common industrial SIEM platforms  
 
+
+---
+
+## 🔍 Données & Analyse OSINT
+
+Toutes les informations, chiffres clés et analyses présentés dans le script de pitch **SecureProd.pdf** sont le fruit d’une collecte et d’une analyse OSINT approfondie sur la cybersécurité industrielle au Maroc et dans la région MENA.
+
+Cette veille ouverte a permis de :
+
+- Identifier les tendances actuelles des menaces industrielles  
+- Quantifier les vulnérabilités des protocoles critiques  
+- Évaluer l’impact économique des cyberattaques locales  
+
+Nous avons déployé une **démo interactive** basée sur ces données, accessible ici :  
+🔗 [Live demo SecureProd OSINT](https://cybersec-maroc-osint.vercel.app)  
+
+N’hésitez pas à explorer et tester cette plateforme pour mieux comprendre le contexte de notre projet.
+
 ---
 
 ## 🤝 Contributions & Mentorat
